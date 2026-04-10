@@ -7,5 +7,7 @@ for (let i = 1; i < 10; i++){
 
 let n = 0;
 while (n < 50) {
-  
+  if (n % 5 !== 0) {
+    continue;
+  }
 }
