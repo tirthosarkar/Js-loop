@@ -7,5 +7,5 @@ while (i < 5) {
 }
 
 do {
-  console.log()
+  console.log(5)
 }
