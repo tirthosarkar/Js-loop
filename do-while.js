@@ -5,7 +5,7 @@ while (i < 5) {
   console.log(i);
   i++
 }
-let n = 10;
+let n = 140;
 do {
   console.log(5);
   n++;
