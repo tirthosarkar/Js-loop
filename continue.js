@@ -11,3 +11,5 @@ while (n < 50) {
     continue;
   }
 }
+
+console.log(n);
